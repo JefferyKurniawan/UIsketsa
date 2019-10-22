@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
+.navbgcolor {
+ background-color: yellow;
+}
+.navbarright {
+  text-align: right;
+}
+.navbarimage {
+  width: 50px;
+  text-align: left;
+}
+
+.profile1 {
+  width: 300px;
+  margin-left: 20px;
+}
+
+.flex {
+  display: flex;
+}
+
+.ourteamtitle {
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.card-title , .card-text {
+  text-align: center;
+  padding: 7px;
+}
+
+.margintop {
+  margin-top: 50px;
+}
